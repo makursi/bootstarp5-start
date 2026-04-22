@@ -1,11 +1,1 @@
-# bootstrap5前端框架实战项目
-
-通过下载学习bootstrap5的个性化样式，组件库，并学习使用栅格系统实现响应式布局开发
-
----
-
-## 使用
-
-将项目下载到本地，快速创建个人的响应式页面
-
-![卡拉](images/cl1.jpg)
+# a css page using bootstarp4
